@@ -1,0 +1,21 @@
+{
+  "Schedules": [
+    {
+      "MediaList": [
+        {
+          "MediaType": {
+            "Type": "website"
+          },
+          "MediaUri": {
+            "Uri": "google.com"
+          }
+        }
+      ],
+      "ScheduleTimeConfig": []
+    }
+  ],
+  "TargetScreenInfo": {
+    "ScreenName": "test",
+    "RemoteConfigFileName": "testFile.json"
+  }
+}
