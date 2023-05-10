@@ -24,6 +24,17 @@
             "DurationInSeconds": "20"
           },
         },
+                        {
+          "MediaType": {
+            "Type": "website"
+          },
+          "MediaUri": {
+            "Uri": "mooon-dev.vercel.app"
+          },
+          "MediaDuration": {
+            "DurationInSeconds": "20"
+          },
+        },
         {
           "MediaType": {
             "Type": "website"
