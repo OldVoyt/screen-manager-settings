@@ -10,7 +10,7 @@
             "Uri": "google.com"
           },
           "MediaDuration": {
-            "DurationInSeconds": "20"
+            "DurationInSeconds": "2"
           },
         },
         {
@@ -21,7 +21,7 @@
             "Uri": "github.com"
           },
           "MediaDuration": {
-            "DurationInSeconds": "20"
+            "DurationInSeconds": "2"
           },
         }
       ],
