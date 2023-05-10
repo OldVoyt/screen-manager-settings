@@ -13,6 +13,17 @@
             "DurationInSeconds": "20"
           },
         },
+                {
+          "MediaType": {
+            "Type": "website"
+          },
+          "MediaUri": {
+            "Uri": "silverscreen.by"
+          },
+          "MediaDuration": {
+            "DurationInSeconds": "20"
+          },
+        },
         {
           "MediaType": {
             "Type": "website"
