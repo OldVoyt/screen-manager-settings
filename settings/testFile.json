@@ -29,6 +29,28 @@
             "Type": "website"
           },
           "MediaUri": {
+            "Uri": "mooon-dev.vercel.app/settings"
+          },
+          "MediaDuration": {
+            "DurationInSeconds": "20"
+          },
+        },
+        {
+          "MediaType": {
+            "Type": "website"
+          },
+          "MediaUri": {
+            "Uri": "mooon-dev.vercel.app/admin"
+          },
+          "MediaDuration": {
+            "DurationInSeconds": "20"
+          },
+        },
+        {
+          "MediaType": {
+            "Type": "website"
+          },
+          "MediaUri": {
             "Uri": "mooon-dev.vercel.app"
           },
           "MediaDuration": {
