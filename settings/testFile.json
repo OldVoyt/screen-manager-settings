@@ -29,39 +29,6 @@
             "Type": "website"
           },
           "MediaUri": {
-            "Uri": "mooon-dev.vercel.app/settings"
-          },
-          "MediaDuration": {
-            "DurationInSeconds": "10"
-          },
-        },
-        {
-          "MediaType": {
-            "Type": "website"
-          },
-          "MediaUri": {
-            "Uri": "mooon-dev.vercel.app/admin"
-          },
-          "MediaDuration": {
-            "DurationInSeconds": "10"
-          },
-        },
-        {
-          "MediaType": {
-            "Type": "website"
-          },
-          "MediaUri": {
-            "Uri": "mooon-dev.vercel.app"
-          },
-          "MediaDuration": {
-            "DurationInSeconds": "20"
-          },
-        },
-        {
-          "MediaType": {
-            "Type": "website"
-          },
-          "MediaUri": {
             "Uri": "github.com"
           },
           "MediaDuration": {
