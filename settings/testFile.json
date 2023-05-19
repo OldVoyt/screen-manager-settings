@@ -12,6 +12,16 @@
           "MediaDuration": {
             "DurationInSeconds": "10"
           },
+        },        {
+          "MediaType": {
+            "Type": "videoGoogleDisk"
+          },
+          "MediaUri": {
+            "Uri": "https://docs.google.com/uc?id=1DVLiPthfZA4Dfp67i8nJUJdr2sX0za7u"
+          },
+          "MediaDuration": {
+            "DurationInSeconds": "999999"
+          },
         },
         {
           "MediaType": {
